@@ -1,0 +1,27 @@
+[0.013s] Invoking command in '/home/angelhyc/ros2/cpp_parameters/build/cpp_parameters': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/angelhyc/ros2/cpp_parameters/build/cpp_parameters -- -j16 -l16
+[0.053s] [ 50%] [32mBuilding CXX object CMakeFiles/minimal_param_node.dir/src/cpp_parameters_node.cpp.o[0m
+[3.156s] [100%] [32m[1mLinking CXX executable minimal_param_node[0m
+[3.249s] [100%] Built target minimal_param_node
+[3.257s] Invoked command in '/home/angelhyc/ros2/cpp_parameters/build/cpp_parameters' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/angelhyc/ros2/cpp_parameters/build/cpp_parameters -- -j16 -l16
+[3.280s] Invoking command in '/home/angelhyc/ros2/cpp_parameters/build/cpp_parameters': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/angelhyc/ros2/cpp_parameters/build/cpp_parameters
+[3.286s] -- Install configuration: ""
+[3.286s] -- Up-to-date: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/share/cpp_parameters/launch
+[3.286s] -- Up-to-date: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/share/cpp_parameters/launch/cpp_parameters_launch.py
+[3.286s] -- Installing: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/lib/cpp_parameters/minimal_param_node
+[3.287s] -- Set runtime path of "/home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/lib/cpp_parameters/minimal_param_node" to ""
+[3.287s] -- Up-to-date: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/share/ament_index/resource_index/package_run_dependencies/cpp_parameters
+[3.288s] -- Up-to-date: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/share/ament_index/resource_index/parent_prefix_path/cpp_parameters
+[3.288s] -- Up-to-date: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/share/cpp_parameters/environment/ament_prefix_path.sh
+[3.288s] -- Up-to-date: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/share/cpp_parameters/environment/ament_prefix_path.dsv
+[3.288s] -- Up-to-date: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/share/cpp_parameters/environment/path.sh
+[3.288s] -- Up-to-date: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/share/cpp_parameters/environment/path.dsv
+[3.288s] -- Up-to-date: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/share/cpp_parameters/local_setup.bash
+[3.288s] -- Up-to-date: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/share/cpp_parameters/local_setup.sh
+[3.288s] -- Up-to-date: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/share/cpp_parameters/local_setup.zsh
+[3.288s] -- Up-to-date: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/share/cpp_parameters/local_setup.dsv
+[3.288s] -- Up-to-date: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/share/cpp_parameters/package.dsv
+[3.288s] -- Up-to-date: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/share/ament_index/resource_index/packages/cpp_parameters
+[3.289s] -- Up-to-date: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/share/cpp_parameters/cmake/cpp_parametersConfig.cmake
+[3.289s] -- Up-to-date: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/share/cpp_parameters/cmake/cpp_parametersConfig-version.cmake
+[3.290s] -- Up-to-date: /home/angelhyc/ros2/cpp_parameters/install/cpp_parameters/share/cpp_parameters/package.xml
+[3.290s] Invoked command in '/home/angelhyc/ros2/cpp_parameters/build/cpp_parameters' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/angelhyc/ros2/cpp_parameters/build/cpp_parameters
